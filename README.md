@@ -7,8 +7,8 @@ github Create Repository & Commit (git-training)
 github issues - 게시판 개념
 
 git config - 사용자 설정
- - git config --global user.name <name>
- - git config --global user.email <email>
+ - git config --global user.name Hodu-C
+ - git config --global user.email za4758@icloud.com
 
 git clone - 원격저장소(github)에서 로컬저장소로 복제
  - git clone https://github.com/Hodu-C/git-training.git
