@@ -6,7 +6,7 @@ github Create Repository & Commit (git-training)
 
 github issues - 게시판 개념
 
-git clone - 원격저장소(github)에서 복제 ex) git clone https://github.com/Hodu-C/git-training.git
+git clone - 원격저장소(github)에서 로컬저장소로 복제 ex) git clone https://github.com/Hodu-C/git-training.git
 
 git commit - 중간 저장 느낌(좀 더 알아보고 수정)
 
