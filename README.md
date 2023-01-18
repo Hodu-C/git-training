@@ -16,6 +16,7 @@ git init - 초기화 현재 디렉토리를 로컬 저장소로 사용한다.
 git clone - 원격저장소(github)에서 로컬저장소로 복제
 
 git add . or git add "filename" - 변경된 파일을 Staging Area로 옮긴다.
+ ex)git add . git add *.c
 
 - git clone https://github.com/Hodu-C/git-training.git
 
