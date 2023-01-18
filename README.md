@@ -17,16 +17,16 @@ git config - 사용자 설정
 git init - 초기화 현재 디렉토리를 로컬 저장소로 사용한다.
 
 git add <filename> - 변경된 파일을 Staging Area로 옮긴다.
- ex)git add . git add *.c
+ - ex)git add . git add *.c
  
 git commit -m "" - 로컬 저장소에 수정된 내용 저장
- ex)git commit -m "start"
+ - ex)git commit -m "start"
  
 git clone <url> - git 저장소 복제
- ex) git clone https://github.com/Hodu-C/git-training (git-training 이라는 디렉토리를 만들고 그 하위에 .git 디렉토리를 생성하고 가장 최신버전을 복제한다.)
- ex) git clone https://github.com/Hodu-C/git-training.git
- ex) git clone https://github.com/Hodu-C/git-training <filename> (뒤에 filename을 적어주어 다른 이름으로 디렉토리 생성 가능)
- ex) git clone https:// or git:// or SSH 프로토콜 사용 등의 형식으로 사용할 수 있다.
+ - ex) git clone https://github.com/Hodu-C/git-training (git-training 이라는 디렉토리를 만들고 그 하위에 .git 디렉토리를 생성하고 가장 최신버전을 복제한다.)
+ - ex) git clone https://github.com/Hodu-C/git-training.git
+ - ex) git clone https://github.com/Hodu-C/git-training <filename> (뒤에 filename을 적어주어 다른 이름으로 디렉토리 생성 가능)
+ - ex) git clone https:// or git:// or SSH 프로토콜 사용 등의 형식으로 사용할 수 있다.
 
 git push - 로컬 저장소 -> 원격 저장소로 변경 사항 저장
 = fetch + merge
