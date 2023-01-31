@@ -45,7 +45,7 @@ Q2. 원격 저장소의 이름이 바꼇거나, 없어져서 찾을 수 없을 �
  
 git config --global alias -> 단축키(alias)
 
-git tag, git 저장소 개념 좀더 이해해야됨.
+git log, tag, git 저장소 개념 좀더 이해해야됨.
 
 이후 git branch 기능 공부 
  
