@@ -30,6 +30,7 @@ git clone <url> - git 저장소 복제
 
 git push - 로컬 저장소 -> 원격 저장소로 변경 사항 저장
 = fetch + merge
+
 git pull - 원격 저장소 -> 로컬 저장소 변경 사항 저장
 
 git fetch - 원격 저장소에 변경 사항을 다운로드
